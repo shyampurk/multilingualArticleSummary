@@ -21,11 +21,9 @@ Update the API keys in the code with your keys obtained from [Rakuten website](h
 
 1. [Text Anaalysis API](https://english.api.rakuten.net/aylien/api/text-analysis) 
 
-	Update the API key in index.js in line 26 & 33 
-
 2. [Translation API](https://english.api.rakuten.net/hongson890/api/translate-api)
 
-	Update the API key in index.js in line 39 & 47	
+You MUST update the API key in [index.js](/index.js#L14) . Look for <RAKUTEN_API_KEY> and replace with your API key.
 
 ## Execution
 
