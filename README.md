@@ -19,7 +19,7 @@ This will install all dependencies
 
 Update the API keys in the code with your keys obtained from [Rakuten website](https://english.api.rakuten.net) for the following APIs
 
-1. [Text Anaalysis API](https://english.api.rakuten.net/aylien/api/text-analysis) 
+1. [Text Analysis API](https://english.api.rakuten.net/aylien/api/text-analysis) 
 
 2. [Translation API](https://english.api.rakuten.net/hongson890/api/translate-api)
 
